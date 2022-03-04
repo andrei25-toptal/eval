@@ -1,3 +1,3 @@
-a = 5
-b = 9
-print(a+b)
+a = 55
+b = 90
+print(a*b)
