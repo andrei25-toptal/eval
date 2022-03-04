@@ -1,3 +1,4 @@
-a = 55
-b = 90
-print(a*b)
+c = 32
+d = 41
+puts (
+        c * d )
